@@ -1,0 +1,14 @@
+ ## What is ML
+  Subset of AI that use its pattern recognition and computational learning to help computer **read an existing data** and **make prediction**
+
+## ML Problems
+  - Supervised Learning : Computer is trained with both **inputs and desired outputs**
+  - Unsupervised Learning: Computer is trained only with **inputs**, leaving it to structure them itself
+  - Reinforcement Learning: Computer trains itself under a dynamic environment/ simulation
+
+## Types of ML - by desired outputs
+  - Classification: predicts the data by sorting it into discrete classes
+  - Clustering: sorts the data into groups, but the groups are not known beforehand (mostly unsupervised)
+  - Regression: computer predicts continuous data 
+  - Density Estimation: computer finds probability density function of a random variable (Handwriting recognition)
+  - Dimensionality Reduction: Computer reduces number of variables into subsets.

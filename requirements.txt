@@ -1,0 +1,4 @@
+Pandas
+Scikit-Learn==0.18
+Numpy
+Scipy
