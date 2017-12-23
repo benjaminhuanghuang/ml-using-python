@@ -4,3 +4,4 @@ Numpy
 Scipy
 jupyter
 matplotlib
+seaborn
